@@ -1,4 +1,4 @@
-- Hi, I’m Nay!✨ 
+- Hi, I’m Nay! 
 - I’m currently learning Data Analysis, Python and Machine Learning.
 - I’m looking to collaborate on new projects and find my dream job.
 - How to reach me ndev6775@gmail.com
